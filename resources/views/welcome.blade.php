@@ -14,7 +14,7 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-mb-12 item-mb wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.2s">
                         <div class="service-box1 bg-body text-center">
-                            <img src="img/service/service1.png" alt="service" class="img-responsive">
+                            <img src="/img/service/service1.png" alt="service" class="img-responsive">
                             <h3 class="title-medium-dark mb-none">
                                 <a href="/products">Electronics</a>
                             </h3>
@@ -24,7 +24,7 @@
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-mb-12 item-mb wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.4s">
                         <div class="service-box1 bg-body text-center">
-                            <img src="img/service/service2.png" alt="service" class="img-responsive">
+                            <img src="/img/service/service2.png" alt="service" class="img-responsive">
                             <h3 class="title-medium-dark mb-none">
                                 <a href="/products">Cars &amp; Vehicles</a>
                             </h3>
@@ -34,7 +34,7 @@
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-mb-12 item-mb wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.6s">
                         <div class="service-box1 bg-body text-center">
-                            <img src="img/service/service3.png" alt="service" class="img-responsive">
+                            <img src="/img/service/service3.png" alt="service" class="img-responsive">
                             <h3 class="title-medium-dark mb-none">
                                 <a href="/products">Overseas Jobs</a>
                             </h3>
@@ -44,7 +44,7 @@
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-mb-12 item-mb wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.8s">
                         <div class="service-box1 bg-body text-center">
-                            <img src="img/service/service4.png" alt="service" class="img-responsive">
+                            <img src="/img/service/service4.png" alt="service" class="img-responsive">
                             <h3 class="title-medium-dark mb-none">
                                 <a href="/products">Pets &amp; Animals</a>
                             </h3>
@@ -54,7 +54,7 @@
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-mb-12 item-mb wow fadeIn" data-wow-duration="1.5s" data-wow-delay="1s">
                         <div class="service-box1 bg-body text-center">
-                            <img src="img/service/service5.png" alt="service" class="img-responsive">
+                            <img src="/img/service/service5.png" alt="service" class="img-responsive">
                             <h3 class="title-medium-dark mb-none">
                                 <a href="/products">Hobby, Sport &amp; Kids</a>
                             </h3>
@@ -64,7 +64,7 @@
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-mb-12 item-mb wow fadeIn" data-wow-duration="1.5s" data-wow-delay="1.2s">
                         <div class="service-box1 bg-body text-center">
-                            <img src="img/service/service6.png" alt="service" class="img-responsive">
+                            <img src="/img/service/service6.png" alt="service" class="img-responsive">
                             <h3 class="title-medium-dark mb-none">
                                 <a href="/products">House &amp; Appartment</a>
                             </h3>
@@ -99,14 +99,14 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-mb-12 new featured">
                             <div class="product-box item-mb zoom-gallery">
                                 <div class="item-mask-wrapper">
-                                    <div class="item-mask bg-box"><img src="img/product/product1.png" alt="categories" class="img-responsive">
+                                    <div class="item-mask bg-box"><img src="/img/product/product1.png" alt="categories" class="img-responsive">
                                         <div class="trending-sign" data-tips="Featured"> <i class="fa fa-bolt" aria-hidden="true"></i> </div>
                                         <div class="title-ctg">Clothing</div>
                                         <ul class="info-link">
-                                            <li><a href="img/product/product1.png" class="elv-zoom" data-fancybox-group="gallery" title="Title Here"><i class="fa fa-arrows-alt" aria-hidden="true"></i></a></li>
-                                            <li><a href="single-product-layout1.html"><i class="fa fa-link" aria-hidden="true"></i></a></li>
+                                            <li><a href="/img/product/product1.png" class="elv-zoom" data-fancybox-group="gallery" title="Title Here"><i class="fa fa-arrows-alt" aria-hidden="true"></i></a></li>
+                                            <li><a href="/products/show"><i class="fa fa-link" aria-hidden="true"></i></a></li>
                                         </ul>
-                                        <div class="symbol-featured"><img src="img/banner/symbol-featured.png" alt="symbol" class="img-responsive"> </div>
+                                        <div class="symbol-featured"><img src="/img/banner/symbol-featured.png" alt="symbol" class="img-responsive"> </div>
                                     </div>
                                 </div>
                                 <div class="item-content">
@@ -120,21 +120,21 @@
                                     </ul>
                                     <p>Eimply dummy text of the printing and typesetting industrym has been the industry's standard dummy.</p>
                                     <div class="price">&#8377 15</div>
-                                    <a href="single-product-layout1.html" class="product-details-btn">Details</a>
+                                    <a href="/products/show" class="product-details-btn">Details</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-mb-12 featured random">
                             <div class="product-box item-mb zoom-gallery">
                                 <div class="item-mask-wrapper">
-                                    <div class="item-mask bg-box"><img src="img/product/product2.png" alt="categories" class="img-responsive">
+                                    <div class="item-mask bg-box"><img src="/img/product/product2.png" alt="categories" class="img-responsive">
                                         <div class="trending-sign" data-tips="Featured"> <i class="fa fa-bolt" aria-hidden="true"></i> </div>
                                         <div class="title-ctg">Electronics</div>
                                         <ul class="info-link">
-                                            <li><a href="img/product/product2.png" class="elv-zoom" data-fancybox-group="gallery" title="Title Here"><i class="fa fa-arrows-alt" aria-hidden="true"></i></a></li>
-                                            <li><a href="single-product-layout2.html"><i class="fa fa-link" aria-hidden="true"></i></a></li>
+                                            <li><a href="/img/product/product2.png" class="elv-zoom" data-fancybox-group="gallery" title="Title Here"><i class="fa fa-arrows-alt" aria-hidden="true"></i></a></li>
+                                            <li><a href="/products/show"><i class="fa fa-link" aria-hidden="true"></i></a></li>
                                         </ul>
-                                        <div class="symbol-featured"><img src="img/banner/symbol-featured.png" alt="symbol" class="img-responsive"> </div>
+                                        <div class="symbol-featured"><img src="/img/banner/symbol-featured.png" alt="symbol" class="img-responsive"> </div>
                                     </div>
                                 </div>
                                 <div class="item-content">
@@ -148,21 +148,21 @@
                                     </ul>
                                     <p>Eimply dummy text of the printing and typesetting industrym has been the industry's standard dummy.</p>
                                     <div class="price">&#8377 250</div>
-                                    <a href="single-product-layout2.html" class="product-details-btn">Details</a>
+                                    <a href="/products/show" class="product-details-btn">Details</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-mb-12 random new">
                             <div class="product-box item-mb zoom-gallery">
                                 <div class="item-mask-wrapper">
-                                    <div class="item-mask bg-box"><img src="img/product/product3.png" alt="categories" class="img-responsive">
+                                    <div class="item-mask bg-box"><img src="/img/product/product3.png" alt="categories" class="img-responsive">
                                         <div class="trending-sign" data-tips="Featured"> <i class="fa fa-bolt" aria-hidden="true"></i> </div>
                                         <div class="title-ctg">Electronics</div>
                                         <ul class="info-link">
-                                            <li><a href="img/product/product3.png" class="elv-zoom" data-fancybox-group="gallery" title="Title Here"><i class="fa fa-arrows-alt" aria-hidden="true"></i></a></li>
-                                            <li><a href="single-product-layout3.html"><i class="fa fa-link" aria-hidden="true"></i></a></li>
+                                            <li><a href="/img/product/product3.png" class="elv-zoom" data-fancybox-group="gallery" title="Title Here"><i class="fa fa-arrows-alt" aria-hidden="true"></i></a></li>
+                                            <li><a href="/products/show"><i class="fa fa-link" aria-hidden="true"></i></a></li>
                                         </ul>
-                                        <div class="symbol-featured"><img src="img/banner/symbol-featured.png" alt="symbol" class="img-responsive"> </div>
+                                        <div class="symbol-featured"><img src="/img/banner/symbol-featured.png" alt="symbol" class="img-responsive"> </div>
                                     </div>
                                 </div>
                                 <div class="item-content">
@@ -176,21 +176,21 @@
                                     </ul>
                                     <p>Eimply dummy text of the printing and typesetting industrym has been the industry's standard dummy.</p>
                                     <div class="price">&#8377 800</div>
-                                    <a href="single-product-layout3.html" class="product-details-btn">Details</a>
+                                    <a href="/products/show" class="product-details-btn">Details</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-mb-12 featured new random">
                             <div class="product-box item-mb zoom-gallery">
                                 <div class="item-mask-wrapper">
-                                    <div class="item-mask bg-box"><img src="img/product/product4.png" alt="categories" class="img-responsive">
+                                    <div class="item-mask bg-box"><img src="/img/product/product4.png" alt="categories" class="img-responsive">
                                         <div class="trending-sign" data-tips="Featured"> <i class="fa fa-bolt" aria-hidden="true"></i> </div>
                                         <div class="title-ctg">Clothing</div>
                                         <ul class="info-link">
-                                            <li><a href="img/product/product4.png" class="elv-zoom" data-fancybox-group="gallery" title="Title Here"><i class="fa fa-arrows-alt" aria-hidden="true"></i></a></li>
-                                            <li><a href="single-product-layout1.html"><i class="fa fa-link" aria-hidden="true"></i></a></li>
+                                            <li><a href="/img/product/product4.png" class="elv-zoom" data-fancybox-group="gallery" title="Title Here"><i class="fa fa-arrows-alt" aria-hidden="true"></i></a></li>
+                                            <li><a href="/products/show"><i class="fa fa-link" aria-hidden="true"></i></a></li>
                                         </ul>
-                                        <div class="symbol-featured"><img src="img/banner/symbol-featured.png" alt="symbol" class="img-responsive"> </div>
+                                        <div class="symbol-featured"><img src="/img/banner/symbol-featured.png" alt="symbol" class="img-responsive"> </div>
                                     </div>
                                 </div>
                                 <div class="item-content">
@@ -204,21 +204,21 @@
                                     </ul>
                                     <p>Eimply dummy text of the printing and typesetting industrym has been the industry's standard dummy.</p>
                                     <div class="price">&#8377 15</div>
-                                    <a href="single-product-layout1.html" class="product-details-btn">Details</a>
+                                    <a href="/products/show" class="product-details-btn">Details</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-mb-12 new">
                             <div class="product-box item-mb zoom-gallery">
                                 <div class="item-mask-wrapper">
-                                    <div class="item-mask bg-box"><img src="img/product/product5.png" alt="categories" class="img-responsive">
+                                    <div class="item-mask bg-box"><img src="/img/product/product5.png" alt="categories" class="img-responsive">
                                         <div class="trending-sign" data-tips="Featured"> <i class="fa fa-bolt" aria-hidden="true"></i> </div>
                                         <div class="title-ctg">Clothing</div>
                                         <ul class="info-link">
-                                            <li><a href="img/product/product5.png" class="elv-zoom" data-fancybox-group="gallery" title="Title Here"><i class="fa fa-arrows-alt" aria-hidden="true"></i></a></li>
-                                            <li><a href="single-product-layout2.html"><i class="fa fa-link" aria-hidden="true"></i></a></li>
+                                            <li><a href="/img/product/product5.png" class="elv-zoom" data-fancybox-group="gallery" title="Title Here"><i class="fa fa-arrows-alt" aria-hidden="true"></i></a></li>
+                                            <li><a href="/products/show"><i class="fa fa-link" aria-hidden="true"></i></a></li>
                                         </ul>
-                                        <div class="symbol-featured"><img src="img/banner/symbol-featured.png" alt="symbol" class="img-responsive"> </div>
+                                        <div class="symbol-featured"><img src="/img/banner/symbol-featured.png" alt="symbol" class="img-responsive"> </div>
                                     </div>
                                 </div>
                                 <div class="item-content">
@@ -232,21 +232,21 @@
                                     </ul>
                                     <p>Eimply dummy text of the printing and typesetting industrym has been the industry's standard dummy.</p>
                                     <div class="price">&#8377 15</div>
-                                    <a href="single-product-layout2.html" class="product-details-btn">Details</a>
+                                    <a href="/products/show" class="product-details-btn">Details</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-mb-12 featured new">
                             <div class="product-box item-mb zoom-gallery">
                                 <div class="item-mask-wrapper">
-                                    <div class="item-mask bg-box"><img src="img/product/product6.png" alt="categories" class="img-responsive">
+                                    <div class="item-mask bg-box"><img src="/img/product/product6.png" alt="categories" class="img-responsive">
                                         <div class="trending-sign" data-tips="Featured"> <i class="fa fa-bolt" aria-hidden="true"></i> </div>
                                         <div class="title-ctg">Clothing</div>
                                         <ul class="info-link">
-                                            <li><a href="img/product/product6.png" class="elv-zoom" data-fancybox-group="gallery" title="Title Here"><i class="fa fa-arrows-alt" aria-hidden="true"></i></a></li>
-                                            <li><a href="single-product-layout3.html"><i class="fa fa-link" aria-hidden="true"></i></a></li>
+                                            <li><a href="/img/product/product6.png" class="elv-zoom" data-fancybox-group="gallery" title="Title Here"><i class="fa fa-arrows-alt" aria-hidden="true"></i></a></li>
+                                            <li><a href="/products/show"><i class="fa fa-link" aria-hidden="true"></i></a></li>
                                         </ul>
-                                        <div class="symbol-featured"><img src="img/banner/symbol-featured.png" alt="symbol" class="img-responsive"> </div>
+                                        <div class="symbol-featured"><img src="/img/banner/symbol-featured.png" alt="symbol" class="img-responsive"> </div>
                                     </div>
                                 </div>
                                 <div class="item-content">
@@ -260,21 +260,21 @@
                                     </ul>
                                     <p>Eimply dummy text of the printing and typesetting industrym has been the industry's standard dummy.</p>
                                     <div class="price">&#8377 15</div>
-                                    <a href="single-product-layout3.html" class="product-details-btn">Details</a>
+                                    <a href="/products/show" class="product-details-btn">Details</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-mb-12 random new">
                             <div class="product-box item-mb zoom-gallery">
                                 <div class="item-mask-wrapper">
-                                    <div class="item-mask bg-box"><img src="img/product/product7.png" alt="categories" class="img-responsive">
+                                    <div class="item-mask bg-box"><img src="/img/product/product7.png" alt="categories" class="img-responsive">
                                         <div class="trending-sign" data-tips="Featured"> <i class="fa fa-bolt" aria-hidden="true"></i> </div>
                                         <div class="title-ctg">Clothing</div>
                                         <ul class="info-link">
-                                            <li><a href="img/product/product7.png" class="elv-zoom" data-fancybox-group="gallery" title="Title Here"><i class="fa fa-arrows-alt" aria-hidden="true"></i></a></li>
-                                            <li><a href="single-product-layout1.html"><i class="fa fa-link" aria-hidden="true"></i></a></li>
+                                            <li><a href="/img/product/product7.png" class="elv-zoom" data-fancybox-group="gallery" title="Title Here"><i class="fa fa-arrows-alt" aria-hidden="true"></i></a></li>
+                                            <li><a href="/products/show"><i class="fa fa-link" aria-hidden="true"></i></a></li>
                                         </ul>
-                                        <div class="symbol-featured"><img src="img/banner/symbol-featured.png" alt="symbol" class="img-responsive"> </div>
+                                        <div class="symbol-featured"><img src="/img/banner/symbol-featured.png" alt="symbol" class="img-responsive"> </div>
                                     </div>
                                 </div>
                                 <div class="item-content">
@@ -288,7 +288,7 @@
                                     </ul>
                                     <p>Eimply dummy text of the printing and typesetting industrym has been the industry's standard dummy.</p>
                                     <div class="price">&#8377 15</div>
-                                    <a href="single-product-layout1.html" class="product-details-btn">Details</a>
+                                    <a href="/products/show" class="product-details-btn">Details</a>
                                 </div>
                             </div>
                         </div>
@@ -305,13 +305,13 @@
         </section>
         <!-- Products Area End Here -->
         <!-- Counter Area Start Here -->
-        <section class="overlay-default s-space-equal overflow-hidden" style="background-image: url('img/banner/counter-back1.jpg');">
+        <section class="overlay-default s-space-equal overflow-hidden" style="background-image: url('/img/banner/counter-back1.jpg');">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 col-mb-12 wow bounceInUp" data-wow-duration="1.5s" data-wow-delay=".3s">
                         <div class="d-md-flex justify-md-content-center counter-box text-center--md">
                             <div>
-                                <img src="img/banner/counter1.png" alt="counter" class="img-responsive mb20-auto--md">
+                                <img src="/img/banner/counter1.png" alt="counter" class="img-responsive mb20-auto--md">
                             </div>
                             <div>
                                 <div class="counter counter-title" data-num="100000">1,00,000</div>
@@ -322,7 +322,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 col-mb-12 wow bounceInUp" data-wow-duration="1.5s" data-wow-delay=".5s">
                         <div class="d-md-flex justify-md-content-center counter-box text-center--md">
                             <div>
-                                <img src="img/banner/counter2.png" alt="counter" class="img-responsive mb20-auto--md">
+                                <img src="/img/banner/counter2.png" alt="counter" class="img-responsive mb20-auto--md">
                             </div>
                             <div>
                                 <div class="counter counter-title" data-num="500000">5,00,000</div>
@@ -333,7 +333,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 col-mb-12 wow bounceInUp" data-wow-duration="1.5s" data-wow-delay=".7s">
                         <div class="d-md-flex justify-md-content-center counter-box text-center--md">
                             <div>
-                                <img src="img/banner/counter3.png" alt="counter" class="img-responsive mb20-auto--md">
+                                <img src="/img/banner/counter3.png" alt="counter" class="img-responsive mb20-auto--md">
                             </div>
                             <div>
                                 <div class="counter counter-title" data-num="200000">2,00,000</div>
@@ -355,17 +355,17 @@
                 </div>
                 <ul class="process-area">
                     <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s">
-                        <img src="img/banner/process1.png" alt="process" class="img-responsive">
+                        <img src="/img/banner/process1.png" alt="process" class="img-responsive">
                         <h3>Upload Your Products</h3>
                         <p> Bmply dummy text of the printing and typesing industrypsum been the induse.</p>
                     </li>
                     <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s">
-                        <img src="img/banner/process2.png" alt="process" class="img-responsive">
+                        <img src="/img/banner/process2.png" alt="process" class="img-responsive">
                         <h3>Set Your Price</h3>
                         <p> Bmply dummy text of the printing and typesing industrypsum been the induse.</p>
                     </li>
                     <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s">
-                        <img src="img/banner/process3.png" alt="process" class="img-responsive">
+                        <img src="/img/banner/process3.png" alt="process" class="img-responsive">
                         <h3>Start Your Business</h3>
                         <p> Bmply dummy text of the printing and typesing industrypsum been the induse.</p>
                     </li>
