@@ -994,7 +994,7 @@ p.text-bold-primary {
   position: relative;
 }
 .direction-img:before {
-  content: url("img/direction-right.png");
+  content: url("../img/direction-right.png");
   position: absolute;
   left: -50px;
   top: 5px;
@@ -1006,7 +1006,7 @@ p.text-bold-primary {
   transition: all 0.5s ease-out;
 }
 .direction-img:after {
-  content: url("img/direction-left.png");
+  content: url("../img/direction-left.png");
   position: absolute;
   right: -50px;
   top: 5px;
@@ -2842,11 +2842,16 @@ p.text-bold-primary {
     margin-top: 10px;
   }
 }
+.mean-container .mean-bar a.logo-mobile img {
+  margin-top: 3px;
+  width: 80px;
+}
 .mean-container .mean-bar a.logo-mobile-menu {
   text-align: center;
 }
 .mean-container .mean-bar a.logo-mobile-menu img {
   margin-right: 30px;
+
 }
 .mean-container .mean-bar:after {
   content: "";
