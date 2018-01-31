@@ -111,8 +111,8 @@
                                 </div>
                                 <div class="item-content">
                                     <div class="title-ctg">Clothing</div>
-                                    <h3 class="short-title"><a href="single-product1.html">Cotton T-Shirt</a></h3>
-                                    <h3 class="long-title"><a href="single-product1.html">Men's Basic Cotton T-Shirt</a></h3>
+                                    <h3 class="short-title"><a href="/products/show">Cotton T-Shirt</a></h3>
+                                    <h3 class="long-title"><a href="/products/show">Men's Basic Cotton T-Shirt</a></h3>
                                     <ul class="upload-info">
                                         <li class="date"><i class="fa fa-clock-o" aria-hidden="true"></i>07 Mar, 2017</li>
                                         <li class="place"><i class="fa fa-map-marker" aria-hidden="true"></i>Pune</li>
@@ -139,8 +139,8 @@
                                 </div>
                                 <div class="item-content">
                                     <div class="title-ctg">Clothing</div>
-                                    <h3 class="short-title"><a href="single-product2.html">Patriot Phone</a></h3>
-                                    <h3 class="long-title"><a href="single-product2.html">HTC Desire Patriot Mobile Smart Phone</a></h3>
+                                    <h3 class="short-title"><a href="/products/show">Patriot Phone</a></h3>
+                                    <h3 class="long-title"><a href="/products/show">HTC Desire Patriot Mobile Smart Phone</a></h3>
                                     <ul class="upload-info">
                                         <li class="date"><i class="fa fa-clock-o" aria-hidden="true"></i>07 Mar, 2017</li>
                                         <li class="place"><i class="fa fa-map-marker" aria-hidden="true"></i>Pune</li>
@@ -195,8 +195,8 @@
                                 </div>
                                 <div class="item-content">
                                     <div class="title-ctg">Clothing</div>
-                                    <h3 class="short-title"><a href="single-product1.html">Headphones</a></h3>
-                                    <h3 class="long-title"><a href="single-product1.html">Basics Lightweight On-Ear Headphones</a></h3>
+                                    <h3 class="short-title"><a href="/products/show">Headphones</a></h3>
+                                    <h3 class="long-title"><a href="/products/show">Basics Lightweight On-Ear Headphones</a></h3>
                                     <ul class="upload-info">
                                         <li class="date"><i class="fa fa-clock-o" aria-hidden="true"></i>07 Mar, 2017</li>
                                         <li class="place"><i class="fa fa-map-marker" aria-hidden="true"></i>Pune</li>
@@ -223,8 +223,8 @@
                                 </div>
                                 <div class="item-content">
                                     <div class="title-ctg">Clothing</div>
-                                    <h3 class="short-title"><a href="single-product2.html">Handbags</a></h3>
-                                    <h3 class="long-title"><a href="single-product2.html">MMK collection Women Fashion Matching Satchel handbags</a></h3>
+                                    <h3 class="short-title"><a href="/products/show">Handbags</a></h3>
+                                    <h3 class="long-title"><a href="/products/show">MMK collection Women Fashion Matching Satchel handbags</a></h3>
                                     <ul class="upload-info">
                                         <li class="date"><i class="fa fa-clock-o" aria-hidden="true"></i>07 Mar, 2017</li>
                                         <li class="place"><i class="fa fa-map-marker" aria-hidden="true"></i>Pune</li>
@@ -279,8 +279,8 @@
                                 </div>
                                 <div class="item-content">
                                     <div class="title-ctg">Clothing</div>
-                                    <h3 class="short-title"><a href="single-product1.html">V-Neck T-Shirt</a></h3>
-                                    <h3 class="long-title"><a href="single-product1.html">Men's Threadborne Streaker V-Neck T-Shirt</a></h3>
+                                    <h3 class="short-title"><a href="/products/show">V-Neck T-Shirt</a></h3>
+                                    <h3 class="long-title"><a href="/products/show">Men's Threadborne Streaker V-Neck T-Shirt</a></h3>
                                     <ul class="upload-info">
                                         <li class="date"><i class="fa fa-clock-o" aria-hidden="true"></i>07 Mar, 2017</li>
                                         <li class="place"><i class="fa fa-map-marker" aria-hidden="true"></i>Pune</li>
